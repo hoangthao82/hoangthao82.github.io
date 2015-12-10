@@ -288,7 +288,7 @@ div.paragraph ol, div.paragraph ol li { list-style: decimal outside !important; 
 
 .nav-wrap{
 	text-align: center;
-	position: fixed;
+	position: relative;
 	top: 0px;
 	z-index: 15;
 	border-bottom: 2px solid #F7F7F7;
