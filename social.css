@@ -46,6 +46,19 @@ div a{
 }
 
 
+.contact-header{
+	overflow: hidden;
+	width: 900px;
+	height: 30px;
+	position: relative;
+	margin: 20px auto 0px;
+	font-size: 40px;
+	padding: 60px;
+	
+	
+}
+
+
 
 .socialMedia{
 	
