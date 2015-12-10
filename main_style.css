@@ -25,6 +25,7 @@ body {
 	display: inline-block;
 	vertical-align: top;
 	list-style-type: none;
+	
 }
 
 div li{
@@ -71,12 +72,15 @@ div a{
 	box-sizing: border-box;
 	text-align: center;
 	color: white;
+	font-size: 100%;
 
 }
 .main_wrap{
 	overflow: hidden;
 width: 930px;
 margin: 0px auto;
+border-collapse: collapse;
+direction: ltr;
 }
 
 .main-wrapContact{
@@ -86,6 +90,7 @@ margin: 0px auto;
         padding-top: 20px;
         padding: 40px 20px;
 box-sizing: border-box;
+border-collapse: collapse;
 
 }
 
