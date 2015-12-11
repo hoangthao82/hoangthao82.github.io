@@ -1,0 +1,19 @@
+.nav-wrap{
+	text-align: center;
+	position: fixed;
+	top: 0px;
+	z-index: 15;
+	border-bottom: 2px solid #F7F7F7;
+	overflow: hidden;
+	width: 100%;
+	padding: 10px 0px;
+	background: #FFF none repeat scroll 0% 0%;
+	box-sizing: border-box;
+	backface-visibility: hidden;
+}
+
+.wsite-menu-default{
+	display: inline-block;
+	vertical-align: top;
+	list-style-type: none;
+}
